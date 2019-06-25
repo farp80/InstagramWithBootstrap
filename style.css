@@ -6,3 +6,10 @@
     display: flex;
     justify-content: space-between;
   }
+
+.colBackground{
+    width: 525px;
+    height: 325px;
+    background-position-x: 50%;
+    background-position-y: 1px;
+}
